@@ -1,6 +1,6 @@
 # VLC Subtitle Learner
 
-Learn languages while watching movies without pausing! This app displays subtitles from `.srt` files in a floating overlay window, allowing you to click on unknown words to save them for later review.
+Learn languages while watching videos or movies without pausing! This app displays subtitles from `.srt` files in a floating overlay window, allowing you to click on unknown words to save them for later review.
 
 ## 🎯 What It Does
 
@@ -183,4 +183,8 @@ DEFAULT_CONFIG = {
 - Tkinter (included with Python on Windows)
 - No external dependencies!
 
-## 🎬 Enjoy learning languages while watching movies!
+## Try the app
+https://linkly.link/2WD2q
+
+## 🎬 Enjoy learning languages while watching enjoyable content!
+
